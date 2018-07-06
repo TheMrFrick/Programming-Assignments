@@ -1,0 +1,2 @@
+Problem I Test 1
+Query: (firstNon0 0 0 1)
